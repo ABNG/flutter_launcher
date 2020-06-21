@@ -1,4 +1,4 @@
-# flutterskypeclone
+# flutterLauncher
 
 A new Flutter application.
 
